@@ -16,4 +16,4 @@ This project can be compiled using .net 4.0 client profile.
 
 #### Screenshot:
 
-![](https://raw.githubusercontent.com/ashokgelal/Magpie-SignatureGenerator/master/screenshots/lp_download_screenshot.png)
+![](https://raw.githubusercontent.com/ashokgelal/Magpie-SignatureGenerator/master/screenshots/command.PNG)
